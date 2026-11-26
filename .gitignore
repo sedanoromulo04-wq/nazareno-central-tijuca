@@ -1,0 +1,24 @@
+# Mídia pesada vive no Drive
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+*.gif
+
+# Local
+dados/local/
+.env
+.env.*
+node_modules/
+__pycache__/
+*.log
+.DS_Store

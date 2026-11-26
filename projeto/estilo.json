@@ -1,0 +1,15 @@
+{
+  "_nota": "Rascunho. Valores a validar com as referências do pastor (P-10). O esquema definitivo nasce na Fase 1.",
+  "legenda": {
+    "modo": "palavra_a_palavra",
+    "cor_base": "#FFFFFF",
+    "cor_destaque": "#E00000",
+    "destaque": "palavra_chave",
+    "posicao": "acima_da_cabeca",
+    "fallback_posicao": "terco_inferior_fora_do_rosto"
+  },
+  "tratamento_imagem": { "perfil": "a_definir" },
+  "audio": { "normalizar": true, "reduzir_ruido": true },
+  "formato_video": { "proporcao": "9:16", "resolucao": "1080x1920" },
+  "referencias": []
+}

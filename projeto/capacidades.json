@@ -1,0 +1,12 @@
+{
+  "_nota": "Motores ligados. O id do modelo de imagem NÃO está confirmado (D-010, P-08); por isso é nulo.",
+  "corte_video": true,
+  "transcricao": true,
+  "legenda_queimada": true,
+  "tratamento_audio": true,
+  "tratamento_imagem": true,
+  "imagem_ia": { "ligado": false, "modelo": null, "exige_aprovacao_por_geracao": true },
+  "avatar_ia": false,
+  "carrossel": false,
+  "publicacao_automatica": false
+}
